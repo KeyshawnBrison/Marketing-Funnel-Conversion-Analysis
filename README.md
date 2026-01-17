@@ -18,9 +18,12 @@
   - Purchase
 - Distinct users were counted at each stage to avoid double-counting repeat actions.
 ## Funnel Performance Summary
-Funnel Stage:  Visit View Add to Cart Checkout Purchase        
-Users: 300 287 222 152 79      
-Coversion Rate: 100% 95.7% 77.% 68.5% 52.0%
+Funnel Stage          Users        Coversion Rate
+  Visit                300              100%
+  View                 287              95.7%
+  Add to Cart          222              77.4%
+  Checkout             152              68.5%
+  Purchase             79               52.0%
 ## Key Insights
   - The largest drop-off occurs between Checkout and Purchase, where nearly 48% of users abandon.
   - This suggests potential friction during payment, pricing, or checkout UX.
