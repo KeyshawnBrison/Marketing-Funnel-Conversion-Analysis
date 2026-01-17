@@ -18,7 +18,7 @@
   - Purchase
 - Distinct users were counted at each stage to avoid double-counting repeat actions.
 ## Funnel Performance Summary
-Funnel Stage          Users        Coversion Rate
+Funnel Stage:          Users:        Coversion Rate:
   Visit                300              100%
   View                 287              95.7%
   Add to Cart          222              77.4%
